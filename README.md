@@ -6,15 +6,15 @@ HOURLYWeather is A web app that allows a user to access and visualize hourly wea
 
 ## Landing Page
 
-![image](./src/assets/images/hourly-home.png)
+![image](./src/assets/images/hourly-home.PNG)
 
 ## Forecasts Section
 
-![image](./src/assets/images/hourly-forecasts.png)
+![image](./src/assets/images/hourly-forecasts.PNG)
 
 ### Live Demo
 
-- Click this [link](https://hourly.herokuapp.com/) to view the live application
+- Click this [link](https://hourlyweather.herokuapp.com/) to view the live application
   
 ****
 
