@@ -77,8 +77,6 @@ As a user you should be able to:
 - ReactJS - Building component based UI
 - [Free Weather API](https://open-meteo.com/en) - to facilitate fetching of weather forecast data
 
-
-
 ## Licence
 
 MIT License

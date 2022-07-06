@@ -13,7 +13,7 @@
 body{
     display:flex;
     align-items: center;
-    min-height: 100vh;
+    height: 500%;
     width: 100%;
     flex-direction: column;
     background-color: rgb(162, 152, 187); 
@@ -21,6 +21,7 @@ body{
     background-repeat: no-repeat; 
     background-size: cover;
     background-image: url("images/cyton.png");
+    background-size:  500%;
 }
 
  nav{
