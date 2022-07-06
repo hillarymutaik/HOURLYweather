@@ -6,15 +6,15 @@ HOURLYWeather is A web app that allows a user to access and visualize hourly wea
 
 ## Landing Page
 
-![image](./src/assets/images/cyweather-home.png)
+![image](./src/assets/images/hourly-home.png)
 
 ## Forecasts Section
 
-![image](./src/assets/images/cyweather-forecasts.png)
+![image](./src/assets/images/hourly-forecasts.png)
 
 ### Live Demo
 
-- Click this [link](https://cyWeather.herokuapp.com/) to view the live application
+- Click this [link](https://hourly.herokuapp.com/) to view the live application
   
 ****
 
@@ -55,7 +55,7 @@ As a user you should be able to:
 - Unzip the downloaded files in a folder of choice.
 - Open the folder with your favorite CLI tool.
 - Run `npm install` on your terminal from inside the root folder of the project
-- Run `node server.js` on your terminal from inside the root folder of the project to run the server
+- Run `node hourly.js` on your terminal from inside the root folder of the project to run the server
 - The server should run on `http://localhost:3000` by default
 - If the port is busy, kindly feel free to change the port inside the server.js file
 - Once the server is up and running, visit the link  `http://localhost:3000` to access the application
