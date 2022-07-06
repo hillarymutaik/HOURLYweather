@@ -25,22 +25,18 @@ HOURLYWeather is A web app that allows a user to access and visualize hourly wea
 This single page application allows a user to fetch and nicely visualize hourly weather forecasts to help make decisions. The user is expected to provide [valid](https://gis.stackexchange.com/questions/88298/what-is-the-max-latitude-and-longitude-values-possible) coordinates, latitude and longitude, and once the data has been fetched, the application shows a forecast of four weather elements, wind speed, humidity and temperature. In addition, the user is able to view a complete summary of these weather elements in one chart.
 ****
 
-[Go Back to the top](#HOURLYWeather)
-
 ## Features
 
 As a user you should be able to:
 
 1. `Enter`  valid latitude eg. 1
-2. `Enter` valid longitude eg 36
+2. `Enter` valid longitude eg. 36
 3. `Submit` the values
 4. `See` Summary of weather forecasts corresponing to the provided coordinates
 
 5. ## OR
 
 6. `Allow` GPS position so that you can get the weather forecasts for your current location automatically.
-
-[Go Back to the top](#HOURLYWeather)
 
 ### Requirements
 
