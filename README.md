@@ -4,15 +4,15 @@ HOURLYWeather is A web app that allows a user to access and visualize hourly wea
 
 ### By Hillary Mutai, 05/07/2022
 
-## Landing Page
+## Home Page
 
 ![image](./src/assets/images/hourly-home.PNG)
 
-## Forecasts Section
+## Hourly Forecasts Page
 
 ![image](./src/assets/images/hourly-forecasts.PNG)
 
-### Live Demo
+### Link for Demo
 
 - Click this [link](https://hourlyweather.herokuapp.com/) to view the live application
   
@@ -64,10 +64,7 @@ As a user you should be able to:
 - Great!!! Try to create some weather forecasts...
 - You could also allow GPS when prompted to get the forecasts for your current location
 
- ****
-[Go Back to the top](#HOURLYWeather)
-
-### Technology  Used
+### Technology  and Tools Used
 
 - HTML -to develop the structure off the page
 
