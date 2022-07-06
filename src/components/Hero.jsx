@@ -1,6 +1,6 @@
 import { useEffect, useState } from "react";
-import "../assets/css/hero.css";
-import video from "../assets/videos/clouds.mp4";
+import "../assets/css/hourly.css";
+import video from "../assets/videos/hourly.mp4";
 import CombinedLineChart from "./CombinedLineChart";
 
 const getDate = () => {
