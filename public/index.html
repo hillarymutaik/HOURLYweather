@@ -1,23 +1,50 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
-    <meta charset="utf-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1" />
     <meta name="theme-color" content="#000000" />
     <meta
       name="description"
       content="Web site created using create-react-app"
     />
-    <script src="https://kit.fontawesome.com/b9ae0ee7d3.js" crossorigin="anonymous"></script>
-    <style>
-      body {
-        background-color: #0A1929
-      }
-    </style>
-    <title>CyWeather</title>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="weather.css">
+    <link rel="icon" type="image/jpg" href="images/cyton.png" sizes="60x60"> 
+    <a href="https://icons8.com/icon/NVAtYk7nzMFv/sunrise"></a>
+    <script src="https://kit.fontawesome.com/62e002bcf4.js" crossorigin="anonymous"></script>
+    <title>Hourly Forecast App</title>
+
   </head>
-  <body>
-    <noscript>You need to enable JavaScript to run this app.</noscript>
-    <div id="root"></div>
+ 
+    <body>
+      <nav>
+          <div id="nav-bar">
+              <div class="head">
+                  <img src="https://img.icons8.com/doodle/48/000000/rainbow--v1.png"/>
+                  <p style="color:rgb(217, 230, 230);">HOURLY Weather Forecast App</p>
+              </div>
+              <a href="">Home</a>
+              <input 
+              type="text" 
+              id="upper-search"
+              placeholder="Search..."
+              autocomplete="off">
+          <button id="upper-btn">Submit</button>
+          </div>
+      </nav>
+      <div class="container">
+      <div class="date-container">
+          <div class="time" id="time">3:22 <span id="am-pm">PM</span></div>
+          <div class="date" id="date">Sunday, 3 July</div>
+      </div>
+      </div>
+      
+         <footer>
+              <a href="https://github.com/hillarymutaik/">Developed by Hillary Mutai</a></p>
+         </footer>
+         <script src="https://cdn.jsdelivr.net/npm/places.js@1.19.0"></script>
+      <script src="./weather.js"></script>
+      
   </body>
 </html>
