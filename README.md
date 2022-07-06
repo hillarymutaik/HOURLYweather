@@ -1,8 +1,8 @@
-# Cyweather
+# HOURLYWeather
 
-Cyweather is A web app that allows a user to access and visualize hourly weather forecast data. The purpose of the application is to enable airstrip operators to make decisions and plans about their flight routines.
+HOURLYWeather is A web app that allows a user to access and visualize hourly weather forecast data. The purpose of the application is to enable airstrip operators to make decisions and plans about their flight routines.
 
-### By Tiberius Mairura, 24/06/2022
+### By Hillary Mutai, 05/07/2022
 
 ## Landing Page
 
@@ -19,9 +19,9 @@ Cyweather is A web app that allows a user to access and visualize hourly weather
 
 ## Table of Content
 
-- [Cyweather](#cyweather)
-  - [Cyweather is A web app that allows a user to access and visualize hourly weather forecast data. The purpose of the application is to enable airstrip operators to make decisions and plans about their flight routines, 24/06/2022](#cyweather-is-a-web-app-that-allows-a-user-to-access-and-visualize-hourly-weather-forecast-data-the-purpose-of-the-application-is-to-enable-airstrip-operators-to-make-decisions-and-plans-about-their-flight-routines-24062022)
-    - [By Tiberius Mairura](#by-tiberius-mairura)
+- [HOURLYWeather](#HOURLYWeather)
+  - [HOURLYWeather is A web app that allows a user to access and visualize hourly weather forecast data. The purpose of the application is to enable airstrip operators to make decisions and plans about their flight routines, 05/07/2022](#HOURLYWeather-is-a-web-app-that-allows-a-user-to-access-and-visualize-hourly-weather-forecast-data-the-purpose-of-the-application-is-to-enable-airstrip-operators-to-make-decisions-and-plans-about-their-flight-routines-24062022)
+    - [By Hillary Mutai](#by-tiberius-mairura)
   - [Landing Page](#landing-page)
   - [Forecasts Section](#forecasts-section)
   - [Live Demo on Youtube](#live-demo-on-youtube)
@@ -42,14 +42,14 @@ Cyweather is A web app that allows a user to access and visualize hourly weather
 This single page application allows a user to fetch and nicely visualize hourly weather forecasts to help make decisions. The user is expected to provide [valid](https://gis.stackexchange.com/questions/88298/what-is-the-max-latitude-and-longitude-values-possible) coordinates, latitude and longitude, and once the data has been fetched, the application shows a forecast of four weather elements, wind speed, humidity and temperature. In addition, the user is able to view a complete summary of these weather elements in one chart.
 ****
 
-[Go Back to the top](#Cyweather)
+[Go Back to the top](#HOURLYWeather)
 
 ## Features
 
 As a user you should be able to:
 
-1. `Enter`  valid latitude
-2. `Enter` valid longitude
+1. `Enter`  valid latitude eg. 1
+2. `Enter` valid longitude eg 36
 3. `Submit` the values
 4. `See` Summary of weather forecasts corresponing to the provided coordinates
 
@@ -57,7 +57,7 @@ As a user you should be able to:
 
 6. `Allow` GPS position so that you can get the weather forecasts for your current location automatically.
 
-[Go Back to the top](#Cyweather)
+[Go Back to the top](#HOURLYWeather)
 
 ### Requirements
 
@@ -68,7 +68,7 @@ As a user you should be able to:
 
 ****
 
-- Clone to this repo by running the command : `git clone https://github.com/hermitex/cyweather.git`
+- Clone to this repo by running the command : `git clone https://github.com/hillarymutaik/HOURLYWeather.git`
 - Unzip the downloaded files in a folder of choice.
 - Open the folder with your favorite CLI tool.
 - Run `npm install` on your terminal from inside the root folder of the project
@@ -82,11 +82,11 @@ As a user you should be able to:
 - You could also allow GPS when prompted to get the forecasts for your current location
 
  ****
-[Go Back to the top](#Cyweather)
+[Go Back to the top](#HOURLYWeather)
 
 ### Live Link
 
-- Click this [link](https://cyweather.herokuapp.com/) to view the live application
+- Click this [link](https://HOURLYWeather.herokuapp.com/) to view the live application
   
 ****
 
@@ -98,9 +98,9 @@ As a user you should be able to:
 - JavaScript - to manipulate the DOM and display appropriate data to the UI based on the use actions
 - NodeJS - for successful deployment on Heroku
 - ReactJS - Building component based UI
-- [Weather Forecast API](https://open-meteo.com/en) - to facilitate fetching of weather forecast data
+- [Free Weather API](https://open-meteo.com/en) - to facilitate fetching of weather forecast data
 
-[Go Back to the top](#Cyweather)
+[Go Back to the top](#HOURLYWeather)
 
 ****
 
@@ -113,7 +113,7 @@ As a user you should be able to:
 ## Licence
 
 MIT License
-Copyright (c) [2022] [Tiberius Mairura]
+Copyright (c) [2022] [Hillary Mutai]
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
 in the Software without restriction, including without limitation the rights
@@ -130,7 +130,7 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-[Go Back to the top](#Cyweather)
+[Go Back to the top](#HOURLYWeather)
 ****
 
 ## Author's Details
@@ -141,5 +141,5 @@ Feel free to reach out via:
 - Linked - [Tiberius Mairura](https://www.linkedin.com/in/tiberius-mairura/)
 - Dev.to - [Tiberius Mairura](https://dev.to/hermitex)
 
-[Go Back to the top](#Cyweather)
+[Go Back to the top](#HOURLYWeather)
 ****
