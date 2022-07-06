@@ -12,29 +12,12 @@ HOURLYWeather is A web app that allows a user to access and visualize hourly wea
 
 ![image](./src/assets/images/cyweather-forecasts.png)
 
-## Live Demo on 
+### Live Demo
 
+- Click this [link](https://HOURLYWeather.herokuapp.com/) to view the live application
+  
+****
 
-[Youtube Video](https://youtu.be/pjMLm8xdYA0)
-
-## Table of Content
-
-- [HOURLYWeather](#HOURLYWeather)
-  - [HOURLYWeather is A web app that allows a user to access and visualize hourly weather forecast data. The purpose of the application is to enable airstrip operators to make decisions and plans about their flight routines, 05/07/2022](#HOURLYWeather-is-a-web-app-that-allows-a-user-to-access-and-visualize-hourly-weather-forecast-data-the-purpose-of-the-application-is-to-enable-airstrip-operators-to-make-decisions-and-plans-about-their-flight-routines-24062022)
-    - [By Hillary Mutai](#by-tiberius-mairura)
-  - [Landing Page](#landing-page)
-  - [Forecasts Section](#forecasts-section)
-  - [Live Demo on Youtube](#live-demo-on-youtube)
-  - [Table of Content](#table-of-content)
-  - [Description](#description)
-  - [Features](#features)
-    - [Requirements](#requirements)
-    - [Installation Process](#installation-process)
-    - [Live Link](#live-link)
-    - [Technology  Used](#technology--used)
-  - [Known Bugs](#known-bugs)
-  - [Licence](#licence)
-  - [Author's Details](#authors-details)
 
 ## Description
 
@@ -84,12 +67,6 @@ As a user you should be able to:
  ****
 [Go Back to the top](#HOURLYWeather)
 
-### Live Link
-
-- Click this [link](https://HOURLYWeather.herokuapp.com/) to view the live application
-  
-****
-
 ### Technology  Used
 
 - HTML -to develop the structure off the page
@@ -100,15 +77,7 @@ As a user you should be able to:
 - ReactJS - Building component based UI
 - [Free Weather API](https://open-meteo.com/en) - to facilitate fetching of weather forecast data
 
-[Go Back to the top](#HOURLYWeather)
 
-****
-
-## Known Bugs
-
-- Sometimes the time for the weather forecast could be wrong
-
-****
 
 ## Licence
 
@@ -130,16 +99,3 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-[Go Back to the top](#HOURLYWeather)
-****
-
-## Author's Details
-
-Feel free to reach out via:
-
-- StackOverflow Profile - [Tiberius Mairura](https://stackoverflow.com/users/11869442/tiberius)
-- Linked - [Tiberius Mairura](https://www.linkedin.com/in/tiberius-mairura/)
-- Dev.to - [Tiberius Mairura](https://dev.to/hermitex)
-
-[Go Back to the top](#HOURLYWeather)
-****
